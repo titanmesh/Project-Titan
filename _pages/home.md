@@ -12,7 +12,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Super open about how we run things!"
+    title: "Open-source engineering"
     excerpt: "The only way to be NEUTRAL, publish everything! We dont like to hide anyhing!."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% non-profit"
-    excerpt: "Run 100% through donatations"
+    excerpt: "Ran 100% through donatations and volunteers"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
