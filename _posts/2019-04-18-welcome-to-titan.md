@@ -3,9 +3,8 @@ title: "Welcome to Titan!"
 categories:
   - Blog
 tags:
-  - Startup
-  - Update
-  -	Networking
+  - Post Formats
+  - quote
 ---
 
 Hi there, 
@@ -22,4 +21,4 @@ To get connected to the Titan Mesh, you would need line of sight from your roof 
 
 For any more information get in touch through our email. 
 
-Till the next update. 
+Till the next update.
