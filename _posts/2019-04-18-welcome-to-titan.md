@@ -6,7 +6,6 @@ tags:
   - Startup
   - Update
   -	Networking
-link: https://twitter.com/titanmesh
 ---
 
 Hi there, 
@@ -19,7 +18,7 @@ How can you join?
 We are in the very early stages at the moment and dont actually have any nodes active as of yet. We are simply looking if there would be any interest in this. 
 If you were interested sign up! 
 
-To get connected to the Titan Mesh, you would need line of sight from your roof to a node. The first node will be within the Bracebridge area. If you are not within range at the moment, dont worry! We are hoping to be expanding real soon! So please do keep checking back or follow us on Twitter `link: https://twitter.com/titanmesh` for further information!
+To get connected to the Titan Mesh, you would need line of sight from your roof to a node. The first node will be within the Bracebridge area. If you are not within range at the moment, dont worry! We are hoping to be expanding real soon! So please do keep checking back or follow us on Twitter for further information!
 
 For any more information get in touch through our email. 
 
