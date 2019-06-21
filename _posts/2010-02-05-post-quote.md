@@ -3,8 +3,9 @@ title: "Welcome to Titan!"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - quote
+  - Startup
+  - Update
+  -	Networking
 ---
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
