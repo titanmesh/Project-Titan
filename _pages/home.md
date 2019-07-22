@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-download'></i>Register your interest now!"
-      url: "/docs/join"
+      url: "https://forms.gle/tVAbk2AU5MDqwPHh7"
 excerpt: >
   A Community owned wireless network throughout the UK town of Worksop.<br />
 feature_row:
