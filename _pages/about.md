@@ -3,6 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+About Project Titan 
+The Titan Mesh Project is a community-owned project offering fast and free internet solely ran by volunteers. By connecting to the Titan mesh project, you could help drive and spread the reach further afield by solely just having a connection on your rooftop. This helps you and your nearby neighbours to get a safer, cheaper and net neutral internet connection! 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+A Titan Mesh connection be can be used alongside your current connection to the main internet as a backup, or you could simply switch over to us completely as your primary means of internet connectivity. 
+
+We are a non-profit project, this means all the money donated / contributed to us goes straight back in to making the project better over time. Titan Mesh is solely ran from donations and sponsorships of people that wish to help. 
+
+Did you know TITAN is also an acronym from: The Internet That’s always neutral? 
+
+This means that at no point will we collect any data from you, block any content from you or restrict you from using the network/internet how you want. 
