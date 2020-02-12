@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  name   : "Titan"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A Community owned wireless network throughout the UK town of Worksop."
   links:
